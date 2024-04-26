@@ -1,2 +1,4 @@
 #I don't know why my wsl automatically becomes root every time I enter it
 It's possible that it's because I'm having trouble installing wsl, and it often reports an error that there are two wsl path conflicts in the system
+![Image description](images/wsl1.png)
+![Image description](images/wsl2.png)
